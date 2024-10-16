@@ -1,5 +1,5 @@
 
-#Tumor Detection Case Study
+# Tumor Detection Case Study
 
 This project focuses on detecting tumors using machine learning techniques. The analysis involves processing medical imaging data, building models, and evaluating their performance to accurately identify the presence of tumors.
 
